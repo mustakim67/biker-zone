@@ -44,7 +44,7 @@
 
 2. **Navigate into the project folder**
    ```bash
-  cd Dev-Board
+   cd Dev-Board
 
 3. **Open index.html in your browser**
 
