@@ -43,13 +43,11 @@
    git clone https://github.com/mustakim67/biker-zone.git
 
 2. **Navigate into the project folder**
-  ```bash
+   ```bash
   cd Dev-Board
 
 3. **Open index.html in your browser**
 
 ✅ Or use Live Server from VS Code
 
-4. ## 🚀 Live Link
-
-🔗 [Live Site](https://mustakim67.github.io/biker-zone/)
+🔗 **Live Site:** [https://mustakim67.github.io/biker-zone/](https://mustakim67.github.io/biker-zone/)
